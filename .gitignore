@@ -1,0 +1,4 @@
+dist/
+payload.zip
+*.exe
+*.rpyc
